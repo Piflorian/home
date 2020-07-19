@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1545500059 source:c:\users\piflo_000\desktop\projet_mario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"./fonctions.h"
+
+1545500104 c:\users\piflo_000\desktop\projet_mario\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
+1545500142 source:c:\users\piflo_000\desktop\projet_mario\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"./fonctions.h"
+
+1545500142 source:c:\users\piflo_000\desktop\fac\l2\projet_mario\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"./fonctions.h"
+
+1545500104 c:\users\piflo_000\desktop\fac\l2\projet_mario\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
+1545500059 source:c:\users\piflo_000\desktop\fac\l2\projet_mario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"./fonctions.h"
+

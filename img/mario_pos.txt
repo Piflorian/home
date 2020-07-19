@@ -1,0 +1,12 @@
+DROITE
+mario_stop     -> (0;0)  - (16;32)
+mario_marche_1 -> (16,0) - (32;32)
+mario_marche_2 -> (32,0) - (48;32)
+mario_marche_3 -> (48,0) - (64;32)
+mario_saut     -> (64,0) - (80;32)
+GAUCHE
+mario_saut     -> (80,0) - (96;32)
+mario_marche_3 -> (96,0) - (112;32)
+mario_marche_2 -> (112,0) - (128;32)
+mario_marche_1 -> (128,0) - (144;32)
+mario_stop     -> (144;0)  - (160;32)
